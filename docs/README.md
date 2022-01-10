@@ -1,3 +1,3 @@
 # Headline
 
-> An awesome project.123123
+> An awesome project.
